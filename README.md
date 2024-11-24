@@ -34,3 +34,11 @@ Libraries
  - cd "./requirements.txt"
  - activate your virtualenv
  - run: **pip install -r requirements.txt**
+
+
+## Deployment
+
+![Screenshot 2024-11-23 160225](https://github.com/user-attachments/assets/7a31bfeb-aab1-4cb0-b911-b02a666f4cff)
+
+![Screenshot 2024-11-23 160301](https://github.com/user-attachments/assets/b72d040b-4c8d-458b-ba56-3b0644da7c2e)
+
