@@ -31,7 +31,6 @@ Libraries
 - API Deployment: Flask
 
 ## setup
- - cd "./requirements.txt"
  - activate your virtualenv
  - run: **pip install -r requirements.txt**
 
